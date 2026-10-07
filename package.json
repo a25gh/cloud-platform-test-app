@@ -1,0 +1,14 @@
+{
+  "name": "cloud-platform-test-app",
+  "version": "1.0.0",
+  "description": "Minimal E2E test application for Cloud Platform Git Repository deployments",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {}
+}
